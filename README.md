@@ -11,6 +11,7 @@
   - [Что вы найдёте внутри](#что-вы-найдёте-внутри)
   - [Microsoft Azure ☁️](#microsoft-azure-️)
     - [Сертификации](#сертификации)
+    - [Полезные статьи](#полезные-статьи)
   - [Google Cloud Platform 🌐](#google-cloud-platform-)
     - [Курсы](#курсы)
   - [Amazon Web Services 🟠](#amazon-web-services-)
@@ -43,7 +44,12 @@
 | [DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification) | Data Engineering в Azure — pipelines, хранилища, обработка данных |
 | [DP-600: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification) | Microsoft Fabric — новая платформа для аналитики данных |
 
-Рекомендуемый порядок: **AZ-900** → **DP-900** → **DP-203** → **DP-600**
+
+### Полезные статьи
+
+| Статья | Описание |
+|--------|----------|
+| [Azure Synapse vs Microsoft Fabric](https://endjin.com/blog/2023/05/azure-synapse-analytics-versus-microsoft-fabric-a-side-by-side-comparison) | Детальное сравнение Azure Synapse Analytics и Microsoft Fabric — когда что использовать |
 
 ---
 
